@@ -28,3 +28,6 @@ Developed linear and nonlinear two-temperature-model solvers, including an IMEX 
 </p>
 
 I'm particularly interested in neural differential equations, stochastic flows, and generative modeling for financial time series.
+
+---
+*Avatar: An abstract U-Net encoder-decoder network generating non-smooth quantile SDE paths in Seaborn Mako tones, stylized with NanoBanana 2.*
