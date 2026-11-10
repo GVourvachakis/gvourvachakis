@@ -29,7 +29,7 @@ Developed linear and nonlinear two-temperature-model solvers, including an IMEX 
 
 I'm particularly interested in neural differential equations, stochastic flows, and generative modeling for financial time series.
 
-## 🔬 About the Profile Architecture
+## 🔮 About the Avatar
 <details open>
 <summary><b>🎨 Interpretation</b></summary>
 <br>
