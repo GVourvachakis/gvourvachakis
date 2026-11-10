@@ -29,5 +29,14 @@ Developed linear and nonlinear two-temperature-model solvers, including an IMEX 
 
 I'm particularly interested in neural differential equations, stochastic flows, and generative modeling for financial time series.
 
----
-*Avatar: An abstract U-Net encoder-decoder network generating non-smooth quantile SDE paths in Seaborn Mako tones, stylized with NanoBanana 2.*
+## 🔬 About the Profile Architecture
+<details open>
+<summary><b>🎨 Interpretation</b></summary>
+<br>
+
+A cubist representation of Microsoft Clippy observing a hierarchical U-Net encoder-decoder model compressing state spaces. Generated with [Nano Banana 2.1](https://gemini.google/overview/image-generation/).
+
+- **Optimization Topology:** The upper quadrant traces hierarchical compression, a central latent channel bottleneck, and expanding decoder blocks with arbitrary skip connections.
+- **Stochastic Integration:** The lower quadrant simulates continuous time-series forecasting via SDE trajectories exhibiting gradual variance reduction (CIR-type volatility decay).
+- **Color Profile:** Governed strictly by the Seaborn `mako` color space over a high-contrast white canvas.
+</details>
