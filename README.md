@@ -36,7 +36,7 @@ I'm particularly interested in neural differential equations, stochastic flows, 
 
 A cubist representation of Microsoft Clippy observing a hierarchical U-Net encoder-decoder model compressing state spaces. Generated with [Nano Banana 2.1](https://gemini.google/overview/image-generation/).
 
-- **Optimization Topology:** The upper quadrant traces hierarchical compression, a central latent channel bottleneck, and expanding decoder blocks with arbitrary skip connections.
-- **Stochastic Integration:** The lower quadrant simulates continuous time-series forecasting via SDE trajectories exhibiting gradual variance reduction (CIR-type volatility decay).
-- **Color Profile:** Governed strictly by the Seaborn `mako` color space over a high-contrast white canvas.
+- **Architecture Topology:** The upper quadrant traces hierarchical compression, a central trapezoidal bottleneck, and symmetric skip connections.
+- **Stochastic Integration:** The lower quadrant simulates continuous time-series forecasting via rough SDE trajectories and path-wise confidence bands exhibiting gradual variance reduction (CIR-type volatility decay).
+- **Spatial Mesh & Palette:** Rendered in the Seaborn `mako` color space over a subtle Voronoi and finite element discretization mesh.
 </details>
